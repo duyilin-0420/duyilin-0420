@@ -1,4 +1,4 @@
-## Hi I'm Yilin Du 👋
+## Hi I'm Yilin Du you know 👋
 
 I am a postgraduate student in Imperial College London, Studying the Statistics(Statistical Finance).
 - 🤔 I have already studied Mathematics in Imperial College London for three years when i was a undergraduate student.
