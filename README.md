@@ -9,4 +9,4 @@ I am a postgraduate student in Imperial College London, Studying the Statistics(
 
 If you want to see what happens on Msc Statistics, search here<https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/>
 --------
-last updated: 2025-09-31
+last updated: 2025-09-30
