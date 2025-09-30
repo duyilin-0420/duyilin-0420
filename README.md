@@ -5,3 +5,4 @@ I am a postgraduate student in Imperial College London, Studying the Statistics(
 - 💬 I really love statistics, especially Machine learning, Data Science, etc.
 - 📫 i don't like pure mathematics like Analysis...
 - 😄 I like singing, go hiking, ..., so if you guys have same hobbies, feel free to contact with me.
+- I really love hearing everyone's advice.
